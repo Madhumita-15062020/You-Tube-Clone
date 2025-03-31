@@ -36,6 +36,7 @@ Make sure you have the following installed:
 ### Backend Setup
 
 1. Clone the repository:
+   https://github.com/Madhumita-15062020/You-Tube-Clone.git
 2. Navigate to the backend directory:
     cd backend
 3. Install the dependencies:
